@@ -1,7 +1,7 @@
 const Menu = [
   {
     id: 1,
-    image: "https://images.samsung.com/is/image/samsung/p6pim/in/sm-e625fzkdins/gallery/in-galaxy-f62-6gb-ram-sm-e625fzkdins-414068150?$2052_1641_PNG$",
+    image: "https://images.samsung.com/is/image/samsung/p6pim/in/sm-m326bzkhins/gallery/in-galaxy-m32-5g-8gb-ram-sm-m326bzkhins-497638130?$684_547_PNG$",
     name: "Samsung",
     category: "Mobile",
     price: "12₹",
